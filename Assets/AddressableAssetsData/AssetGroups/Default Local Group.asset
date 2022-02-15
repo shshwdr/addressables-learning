@@ -15,11 +15,35 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_Data:
     m_SerializedData: []
-  m_GUID: 0a039fd11c43fde40befc75ea58103fe
-  m_SerializeEntries: []
+  m_GUID: 9cf960d02dd8d8147bd9b571c4be92e8
+  m_SerializeEntries:
+  - m_GUID: 3413b1b4dfaa52d438f25dbf3dc63f3c
+    m_Address: Assets/Materials/blue.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 88303c53aeb2dec4d8c386e8c0bfe237
+    m_Address: Assets/Prefabs/Cube.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a152f8f6412b6c04893d0639b1d24305
+    m_Address: Assets/Prefabs/Sphere.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d798e7df01851a24a8d23a794faa4550
+    m_Address: Assets/Sprites/sprite_sheet.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd140080c60be1440a371fbe033f9194
+    m_Address: Assets/Materials/green.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ec5785c63fd926a46a714a1c9a13d7a8
+    m_Address: Assets/Materials/red.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
-  m_Settings: {fileID: 11400000, guid: 60b4e2a723774304a80b56779131d559, type: 2}
+  m_Settings: {fileID: 11400000, guid: 4241fc50dcd3e1840889bb43daae5d6a, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 2279c7a6feeae114fb3a6f437d7c445a, type: 2}
-    - {fileID: 11400000, guid: d89420683aab6f646a7819720d6cd1e7, type: 2}
+    - {fileID: 11400000, guid: c92956ebc8a734748b135edd2f96c92e, type: 2}
+    - {fileID: 11400000, guid: 2d4c9fc8b43d1764289fb2c54a244c1a, type: 2}
