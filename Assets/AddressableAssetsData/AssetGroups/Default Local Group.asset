@@ -41,6 +41,22 @@ MonoBehaviour:
     m_Address: Assets/Materials/red.mat
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: f44ce7d344e754340a1d0ef163f935a0
+    m_Address: FirstScene
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d90f91ad0aec1304c987c6509e1de92c
+    m_Address: circly
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0bf38609032be914f974f366d5a70b38
+    m_Address: squares
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a1d8ff8c9a0321448898185eeb6a167d
+    m_Address: pillville
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 4241fc50dcd3e1840889bb43daae5d6a, type: 2}
   m_SchemaSet:
