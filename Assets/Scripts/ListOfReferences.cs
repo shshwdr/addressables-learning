@@ -23,7 +23,15 @@ public class ListOfReferences : MonoBehaviour {
 		}
 	}
 
-	void OnShapeLoaded(AsyncOperationHandle<GameObject> obj)
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.A))
+        {
+			Destroy(gameObject);
+        }
+    }
+
+    void OnShapeLoaded(AsyncOperationHandle<GameObject> obj)
 	{
 		m_ToLoadCount--;
 		if (m_ToLoadCount <= 0)

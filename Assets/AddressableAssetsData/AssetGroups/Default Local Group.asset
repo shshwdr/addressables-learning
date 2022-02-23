@@ -49,12 +49,52 @@ MonoBehaviour:
     m_Address: circly
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 0bf38609032be914f974f366d5a70b38
-    m_Address: squares
+  - m_GUID: 66a031cac749f6a4a8d517f3cef9da9b
+    m_Address: text
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: a1d8ff8c9a0321448898185eeb6a167d
-    m_Address: pillville
+  - m_GUID: b5ce3051ffa23204e9367f7293904a24
+    m_Address: text2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8b72a4d66754f214ab2cdf9c8508c7ff
+    m_Address: blue
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 73822984aa8764242a3c79843621e7b9
+    m_Address: green
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2a4022a95242dcf409cd11f63c37e742
+    m_Address: cube
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 18e1fe5e60d5b9e4b8b4fb73f7f06e4a
+    m_Address: sphere
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - label2
+  - m_GUID: a2519b40f3b0bd943be234058158e6fd
+    m_Address: Assets/assets/label1/Capsule.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - label1
+  - m_GUID: 438d109b9979f9b4e8c4257b60ad258f
+    m_Address: Assets/assets/label1/Circle.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - label1
+  - m_GUID: 915c072ee4c252949bb7bc88a8a9affa
+    m_Address: Assets/assets/Isometric Diamond.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - label2
+  - m_GUID: 8d6f6fe97d715bb41aeef8ca29fcd9ee
+    m_Address: Assets/assets/Square.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fcc3a3776ea6db342b1b82d9a67febc8
+    m_Address: secondScene
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0

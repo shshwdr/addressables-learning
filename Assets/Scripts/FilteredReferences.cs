@@ -93,4 +93,12 @@ public class FilteredReferences : MonoBehaviour
         midMaterial.ReleaseAsset();
         lateMaterial.ReleaseAsset();
     }
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.A))
+        {
+            Destroy(gameObject);
+        }
+    }
 }
